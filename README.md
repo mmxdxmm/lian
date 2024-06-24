@@ -1,29 +1,7 @@
-FaceFusion
-==========
 
-> Next generation face swapper and enhancer.
+面部融合（AI换脸），本仓库用于储存项目，已解除限制。
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/facefusion/facefusion/ci.yml.svg?branch=master)](https://github.com/facefusion/facefusion/actions?query=workflow:ci)
-![License](https://img.shields.io/badge/license-MIT-green)
-
-
-Preview
--------
-
-![Preview](https://raw.githubusercontent.com/facefusion/facefusion/master/.github/preview.png?sanitize=true)
-
-
-Installation
-------------
-
-Be aware, the [installation](https://docs.facefusion.io/installation) needs technical skills and is not recommended for beginners. In case you are not comfortable using a terminal, our [Windows Installer](https://buymeacoffee.com/henryruhs/e/251939) can have you up and running in minutes.
-
-
-Usage
------
-
-Run the command:
-
+用法：
 ```
 python run.py [options]
 
